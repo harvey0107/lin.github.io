@@ -1,0 +1,26 @@
+body {background-image: url(https://images.adsttc.com/media/images/588e/b1d9/e58e/ce7b/0300/01ae/slideshow/_G6I4630.jpg?1485746633); background-size:cover;}
+.jumbotronTransp {
+    padding: 30px;
+    margin-bottom: 30px;
+    font-size: 21px;
+    font-weight: 200;
+    line-height: 2.1428571435;
+    color: inherit;
+    background-color: grey;
+    opacity: 0.7;
+ }
+ #display-4 {color:black; opacity: 2; font-family: 'Rajdhani', sans-serif; font-size: 50pt; font-weight: bolder;}
+ #lead { color: black; overflow: auto; font-family:'Rajdhani', sans-serif; font-size: 15pt; font-weight: bolder;}
+
+ footer {align-items: baseline; color: white;font-size: 7pt; position: fixed;}
+ 
+ #intro {background-color: white;height: 200px;
+    width: 35%; font-size: 12pt; font-weight: normal;opacity: 0.8; border: 4px rgb(20, 221, 221);
+    border-radius: 0.5pc; text-align:justify;
+    text-justify: inter-ideograph; padding: 5pt 10pt 5pt 10pt
+    } 
+
+
+footer {text-align: center; font-size: medium; color: rgb(255, 255, 255);}
+
+

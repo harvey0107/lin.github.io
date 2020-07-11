@@ -1,0 +1,96 @@
+.header {
+   background-image: url(Food-banner-2.jpg);
+    padding: 110px;
+    text-align: center;
+    color: white;
+   }
+
+#display-4 {
+    color:black; 
+    opacity: 2; 
+    font-family: 'Rajdhani', sans-serif; 
+    font-size: 50pt; 
+    font-weight: bolder;
+    }
+ 
+#lead { 
+    color: black; 
+    overflow: auto; 
+    font-family:'Rajdhani', sans-serif; 
+    font-size: 15pt; 
+    font-weight: bolder;
+    }
+
+ 
+    .first { 
+    color: rgb(167, 153, 153); 
+    text-align: center;
+    color:black; 
+    opacity: 2; 
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 30pt; 
+    font-weight: normal;
+    }
+
+.appetizers {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 5px;
+    border-bottom: dotted;
+    border-bottom-color: rgb(167, 153, 153);
+    font-style: normal;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.sea {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 5px;
+    border-bottom: dotted;
+    border-bottom-color: rgb(167, 153, 153);
+    font-style: normal;
+    font-family:'Courier New', Courier, monospace;
+}
+.land {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 5px;
+    border-bottom: dotted;
+    border-bottom-color: rgb(167, 153, 153);
+    font-style: normal;
+    font-family:'Courier New', Courier, monospace;
+}
+.rice {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 5px;
+    border-bottom: dotted;
+    border-bottom-color: rgb(167, 153, 153);
+    font-style: normal;
+    font-family:'Courier New', Courier, monospace;
+}
+.fun {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 5px;
+    border-bottom: dotted;
+    border-bottom-color: rgb(167, 153, 153);
+    font-style: normal;
+    font-family:'Courier New', Courier, monospace;
+}
+h1{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 5px;
+    font-style: normal;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: normal;
+    color: black;
+    font-weight: bolder;
+}
